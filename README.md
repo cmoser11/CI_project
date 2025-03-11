@@ -1,6 +1,3 @@
-Here's a more professional and polished version of your README:  
-
----
 
 # **Analyzing Confucius Institute Influence on University Syllabi**  
 
