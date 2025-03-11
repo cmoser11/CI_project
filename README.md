@@ -31,32 +31,6 @@ The findings aim to quantify how CI partnerships influence academic institutions
 - **Visualization:** Matplotlib, Seaborn  
 - **Development Environment:** Jupyter Notebook  
 
-## **Project Structure**  
-```
-📂 CI_project  
- ├── 📄 README.md             # Project documentation  
- ├── 📂 data/                 # Raw and processed syllabus datasets  
- ├── 📂 notebooks/            # Jupyter notebooks with analysis  
- ├── 📂 src/                  # Python scripts for data processing & modeling  
- ├── 📂 models/               # Trained NLP and regression models  
- ├── 📂 results/              # Visualizations, reports, and findings  
-```
-
-## **Implementation Guide**  
-### **1. Setup & Installation**  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/cmoser11/CI_project.git  
-cd CI_project  
-pip install -r requirements.txt  
-```  
-
-### **2. Running the Analysis**  
-Launch Jupyter Notebook to explore the data and models:  
-```bash
-jupyter notebook  
-```  
-Navigate to the `notebooks/` directory and execute the analysis notebooks.
 
 ## **Key Findings & Insights**  
 - Found **variation in the degree of influence** depending on institutional characteristics  
