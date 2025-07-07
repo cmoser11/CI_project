@@ -43,5 +43,5 @@ Many syllabus files **lacked explicit university identifiers** (e.g., email addr
 
 
 ## **Key Findings & Insights**  
-- **OpenAI-powered classification** successfully inferred university affiliations with **high accuracy**, particularly for institutions with distinct course structures  
-- Found **institutional variations** in the degree of CI influence based on policy and governance structures  
+- **OpenAI-powered classification** successfully inferred university affiliations with **high accuracy**, particularly for institutions with distinct course structures
+  
